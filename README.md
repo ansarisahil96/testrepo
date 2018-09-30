@@ -4,7 +4,7 @@ test test
 
 
 ## C code 1
-printf("helloo")
+printf("helloo");
 
 
 ## C code 2
