@@ -8,7 +8,7 @@ printf("helloo")
 
 
 ## C code 2
-printf("I like sleepin
+printf("I like sleepin");
 
 
 ## Add some code
